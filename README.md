@@ -7,7 +7,7 @@ Deployment environment
 Start application (api-yelp.exe should be started for backend service)
 	npm start
 
-
+Open browser, access application by http://localhost:3000/
 
 
 
