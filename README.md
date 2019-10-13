@@ -1,3 +1,70 @@
+# Simple api call
+
+Deployment environment
+	Nodejs v10.16.3
+	npm 6.9.0
+
+Start application (api-yelp.exe should be started for backend service)
+	npm start
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
